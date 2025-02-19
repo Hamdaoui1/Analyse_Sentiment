@@ -1,0 +1,29 @@
+#  Manipulation des données
+pandas
+numpy
+scikit-learn
+
+# Traitement du langage naturel (NLP)
+nltk
+spacy
+lxml
+
+# Visualisation des résultats
+matplotlib
+seaborn
+
+# Apprentissage automatique & Deep Learning
+tqdm
+transformers
+datasets
+tensorflow
+torch
+torchvision
+torchaudio
+keras==2.12.0
+tf-keras
+accelerate
+gensim
+
+# Outils supplémentaires
+jupyter
