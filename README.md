@@ -87,6 +87,23 @@ pip install -r requirements.txt
 python src/visualization.py
 ```
 
+### **6. Résultats et Comparaisons des Modèles**
+#### **Comparaison des Accuracy des modèles**
+![Comparaison des Accuracy](Figures/Figure_1.png)
+
+#### **Matrices de Confusion**
+##### **SVM - Laptops**
+![Matrice de confusion SVM Laptops](Figures/Figure_2.png)
+
+##### **BERT - Laptops**
+![Matrice de confusion BERT Laptops](Figures/Figure_3.png)
+
+##### **SVM - Restaurants**
+![Matrice de confusion SVM Restaurants](Figures/Figure_4.png)
+
+##### **BERT - Restaurants**
+![Matrice de confusion BERT Restaurants](Figures/Figure_5.png)
+
 ## **Points Améliorables**
 - Améliorer l'approche lexicon-based avec des ressources plus riches.
 - Expérimenter d'autres architectures de deep learning.
